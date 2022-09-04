@@ -2,6 +2,8 @@
 
 ### An [Albert](https://albertlauncher.github.io/) workflow for searching [Hoogle](https://hoogle.haskell.org)
 
+This will search your local Hoogle server located at `http://localhost:8080`
+
 ### Possible actions on results
 * <kbd>Enter</kbd> on a result opens the item docs in a browser.
 * <kbd>Alt</kbd>+<kbd>Up or Down Arrows</kbd> scrolls through multiple modules to choose from.
